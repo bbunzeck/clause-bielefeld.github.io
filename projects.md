@@ -9,7 +9,6 @@ permalink: /projects/
 <details class="project" markdown="1">
 <summary markdown="span">FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures</summary>
 
-
 * Funding: DFG, SPP 2556, [LaSTing](https://www.lasting-spp.org/) (final decision pending)
 * PIs: [Jutta Hartmann](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=184570689), [Anke Himmelreich](https://www.ankehimmelreich.de/), [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361)
 * Project description: The central objective of this project is to develop a novel
@@ -70,14 +69,6 @@ research on foundational questions regarding the explanatory power of LMs for li
 </details>
 
 <details class="project" markdown="1">
-<summary markdown="span">SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)</summary>
-
-* Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
-* Funding: MKW NRW
-
-</details>
-
-<details class="project" markdown="1">
 <summary markdown="span">LLM4KMU: Optimierter Einsatz von Open Source Large Language Models in KMU (since 2025)</summary>
 
 * Check the [LLM4KMU website](https://llm4kmu.de/)
@@ -87,6 +78,13 @@ research on foundational questions regarding the explanatory power of LMs for li
 
 # Finished
 
+<details class="project" markdown="1">
+<summary markdown="span">SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (2023-2026)</summary>
+
+* Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
+* Funding: MKW NRW
+
+</details>
 
 <details class="project" markdown="1">
 <summary markdown="span">INAS (2022-2025)</summary>
