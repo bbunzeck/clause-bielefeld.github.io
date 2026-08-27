@@ -42,7 +42,7 @@ Generally, we work on natural language processing and on learning models for lan
 
 <div class="section-head">
   <h1 id="news">News</h1>
-  <span class="section-hint">— scroll inside the box for older entries</span>
+  <span class="section-hint">— scroll down for older entries</span>
 </div>
 
 <div class="news-box" markdown="1">
