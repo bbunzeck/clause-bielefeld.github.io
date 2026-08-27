@@ -1,28 +1,51 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# #![alt text](/assets/profilesmall.jpg)  
 layout: home
 ---
 
-Welcome to the website of the **Computational Linguistics Group** (CLAUSE) at Bielefeld University.
-
-
-<img style="margin-left: auto; margin-right: auto; width: 50%" src="./assets/logo.svg" width="400">
-
+<div class="hero">
+  <img class="hero__logo" src="/assets/logo_new.svg" alt="CLAUSE logo" width="180">
+  <div class="hero__text">
+    <h1 class="hero__title">Computational Linguistics Group</h1>
+    <p class="hero__lead">Welcome to the website of <strong>CLAUSE</strong> at Bielefeld University.</p>
+  </div>
+</div>
 
 Generally, we work on natural language processing and on learning models for language generation & understanding from data. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in **c**omputational modeling of **la**nguage **use**, visual language grounding, reference, pragmatics and dialogue.
+{: .intro}
 
+<div class="slideshow" id="group-photos" aria-label="CLAUSE group photos">
+  <div class="slideshow__viewport" tabindex="0">
+    <figure class="slideshow__slide">
+      <img src="/assets/clause_group.jpg" alt="The members of the CLAUSE group in July 2025">
+      <figcaption class="slideshow__caption">
+        <strong>The group in July 2025</strong>
+        Back row: Manar Ali, Larissa Koch, Clara Lachenmaier, Judith Sieker, Simeon Junker, Sanne Hoeken, Emilie Sitter, Omar Momen<br>
+        Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck
+      </figcaption>
+    </figure>
+    <figure class="slideshow__slide">
+      <img src="/assets/clause_group_2022.jpg" alt="The CLAUSE group on the Bielefeld University campus in March 2022" loading="lazy">
+      <figcaption class="slideshow__caption">
+        <strong>The group in March 2022</strong>
+        On campus in front of building D, Bielefeld University.
+      </figcaption>
+    </figure>
+  </div>
+  <div class="slideshow__controls">
+    <button class="slideshow__button" type="button" data-slide-prev aria-label="Previous photo">&#8249;</button>
+    <div class="slideshow__dots"></div>
+    <button class="slideshow__button" type="button" data-slide-next aria-label="Next photo">&#8250;</button>
+  </div>
+</div>
 
-<img style="margin-left: auto; margin-right: auto; width: 100%;" src="./assets/clause_group.jpg" width="400" alt="The members of the CLAUSE group">
-Back row: Manar Ali, Larissa Koch, Clara Lachenmaier, Judith Sieker, Simeon Junker, Sanne Hoeken, Emilie Sitter, Omar Momen <br>
-Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
+<div class="section-head">
+  <h1 id="news">News</h1>
+  <span class="section-hint">— scroll inside the box for older entries</span>
+</div>
 
-<br/><br/>
-
-
-
-# News
+<div class="news-box" markdown="1">
 
 - Jul/Jun/Apr '26: Simeon, Henrik and Sanne have recently defended their PhD theses! Congratulations,  Glückwunsch and Gefeliciteerd to the new _doctores_!
 - Jul '26: We presented 8 papers at **ACL 2026** and workshops in San Diego/California:
@@ -58,3 +81,7 @@ Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
   - Sebastian Loftus, A. Mülthaler, **Sanne Hoeken**, **Sina Zarrieß**, **Özge Alacam**,	*[Using LLMs and Preference Optimization for Agreement-Aware HateWiC Classification](https://aclanthology.org/2025.woah-1.47/)*,	9th Workshop on Online Abuse and Harms (WOAH 2025)
 - Jan '25: **Bastian** presented his paper *[Small Language Models Also Work With Small Vocabularies: Probing the Linguistic Abilities of Grapheme- and Phoneme-Based Baby Llamas](https://aclanthology.org/2025.coling-main.404/)* (with Daniel Duran, Leonie Schade and **Sina Zarrieß**) at **COLING 2025** in Abu Dhabi
 - Dec '24: **Bastian**'s article *[The richness of the stimulus: Constructional variation and development in child-directed speech](https://doi.org/10.1177/01427237241303225)* (with Holger Diessel, U of Jena) has been published in **First Language**
+
+</div>
+
+<script src="/assets/js/slideshow.js" defer></script>

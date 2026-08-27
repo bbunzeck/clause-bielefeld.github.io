@@ -6,7 +6,9 @@ permalink: /projects/
 
 # Upcoming
 
-#### FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures 
+<details class="project" markdown="1">
+<summary markdown="span">FORESTS: Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures</summary>
+
 
 * Funding: DFG, SPP 2556, [LaSTing](https://www.lasting-spp.org/) (final decision pending)
 * PIs: [Jutta Hartmann](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=184570689), [Anke Himmelreich](https://www.ankehimmelreich.de/), [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361)
@@ -55,25 +57,40 @@ In the long run, these insights can contribute to making LMs more
 resource-efficient and sustainable. Finally, the project aims to conduct
 research on foundational questions regarding the explanatory power of LMs for linguistic theory building.
 
+</details>
+
 # Ongoing
 
-#### CRC 1646: Linguistic Creativity in Communication
+<details class="project" markdown="1">
+<summary markdown="span">CRC 1646: Linguistic Creativity in Communication</summary>
+
 * Check the [CRC website](https://www.uni-bielefeld.de/sfb/sfb1646/projekte/) for CRC projects that our group is affiliated with
 * Funding: DFG
 
-#### SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)
+</details>
+
+<details class="project" markdown="1">
+<summary markdown="span">SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems (since 2023)</summary>
+
 * Check the [SAIL website](https://www.sail.nrw/) for SAIL projects that our group is affiliated with
 * Funding: MKW NRW
 
-#### LLM4KMU: Optimierter Einsatz von Open Source Large Language Models in KMU (since 2025)
+</details>
+
+<details class="project" markdown="1">
+<summary markdown="span">LLM4KMU: Optimierter Einsatz von Open Source Large Language Models in KMU (since 2025)</summary>
+
 * Check the [LLM4KMU website](https://llm4kmu.de/)
 * Funding: Ministerium für Wirtschaft, Industrie, Klimaschutz und Energie des Landes NRW 
 
+</details>
 
 # Finished
 
 
-#### INAS (2022-2025)
+<details class="project" markdown="1">
+<summary markdown="span">INAS (2022-2025)</summary>
+
 
 * Title: *Interactive Argumentation Support in the Invasion Biology Domain*
 * Project description: Developing a good, new argument is not an easy task.
@@ -84,7 +101,11 @@ Thus, an initial hypothesis needs to be specific enough that a researcher can te
 * Funding: DFG, RATIO SPP
 * PIs: Sina Zarrieß, Tina Heger, Birgitta König-Ries
 
-#### NLP4VIS (Nov 2020 - Oct 2023)
+</details>
+
+<details class="project" markdown="1">
+<summary markdown="span">NLP4VIS (Nov 2020 - Oct 2023)</summary>
+
 
 * Title: *A generic conversational interface for scientific data visualization*
 * Project description: The goal of this project is to work towards a generic Natural Language Interface (NLI) that allows users to interact with data and visualizations of data in an intuitive way, via conversational language. Given such a generic NLI, users could enter formally complex queries on their data in natural language (e.g., in a data set on exam gradings: \textit{find me a question that Master students answers significantly better than Bachelor students}), without the need to  extensively familiarize  with the technical backend of the visualization tool at hand (e.g., programming in \textsf{python/matplotlib}).
@@ -92,9 +113,14 @@ Compared to traditional interfaces for visualization, NLIs bear the potential to
 * Funding: Carl Zeiss Foundation, [Werkstatt project @MSCJ](https://www.mscj.uni-jena.de/) 
 * PIs: Kai Lawonn, Monique Meuschke, Sina Zarrieß
 
-#### HistKI (Jan 2021 - Dec 2023)
+</details>
+
+<details class="project" markdown="1">
+<summary markdown="span">HistKI (Jan 2021 - Dec 2023)</summary>
+
 
  * Project description: In many historical sciences, photographs and other images of architecture serve as a source and basis for subject- and theory-specific investigations. Although AI-based computer vision methods have developed significantly in recent years, they can support the process of source research and criticism in a rudimentary way at best, e.g. for the exploration of image repositories or the retrieval of images. HistKI aims to explore the support and modeling of image source research and criticism as a complex and fundamental historiographical working technique by multimodal AI-based methods. Related sub-questions are: How do historians and other scholars find and evaluate image sources? What generic procedures and sub-problems can be identified for this purpose? How can this be promoted with AI-based approaches? How do AI techniques impact the humanities research process? These questions will be explored using selected scenarios in which images, texts, and 3D models interact synergistically to describe architectural objects and urban ensembles for a process of analysis. With the help of machine learning methods, object sources and text sources (e.g.: captions) will be linked in HistKI in order to allow a detailed contextualization and localization of photographs in the future, thus going a significant step beyond previous methods of distant viewing.
  * Funding: BMBF (Förderkennzeichen: 01UG2120A)
  * Coordinator: Sander Münster, Uni Jena
 
+</details>
