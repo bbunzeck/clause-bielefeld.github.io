@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: For students
 permalink: /students/
 ---
 
