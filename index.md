@@ -8,13 +8,13 @@ layout: home
 Welcome to the website of the **Computational Linguistics Group** (CLAUSE) at Bielefeld University.
 
 
-<img style="margin-left: auto; margin-right: auto; width: 50%" src="/assets/logo.svg" width="400">
+<img style="margin-left: auto; margin-right: auto; width: 50%" src="./assets/logo.svg" width="400">
 
 
 Generally, we work on natural language processing and on learning models for language generation & understanding from data. We would like to develop machines that use language as flexibly and smoothly as humans do. This is why we are particularly interested in **c**omputational modeling of **la**nguage **use**, visual language grounding, reference, pragmatics and dialogue.
 
 
-<img style="margin-left: auto; margin-right: auto; width: 100%;" src="/assets/clause_group.jpg" width="400" alt="The members of the CLAUSE group">
+<img style="margin-left: auto; margin-right: auto; width: 100%;" src="./assets/clause_group.jpg" width="400" alt="The members of the CLAUSE group">
 Back row: Manar Ali, Larissa Koch, Clara Lachenmaier, Judith Sieker, Simeon Junker, Sanne Hoeken, Emilie Sitter, Omar Momen <br>
 Front row: Özge Alaçam, Sina Zarrieß, Bastian Bunzeck<br>
 
