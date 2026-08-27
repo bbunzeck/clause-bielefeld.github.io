@@ -5,7 +5,7 @@ layout: home
 ---
 
 <div class="hero">
-  <img class="hero__logo" src="/assets/logo_new.svg" alt="CLAUSE logo" width="180">
+  <img class="hero__logo" src="{{ '/assets/logo_new.svg' | relative_url }}" alt="CLAUSE logo" width="180">
   <div class="hero__text">
     <h1 class="hero__title">Computational Linguistics Group</h1>
     <p class="hero__lead">Welcome to the website of <strong>CLAUSE</strong> at Bielefeld University.</p>
@@ -18,7 +18,7 @@ Generally, we work on natural language processing and on learning models for lan
 <div class="slideshow" id="group-photos" aria-label="CLAUSE group photos">
   <div class="slideshow__viewport" tabindex="0">
     <figure class="slideshow__slide">
-      <img src="/assets/clause_group.jpg" alt="The members of the CLAUSE group in July 2025">
+      <img src="{{ '/assets/clause_group.jpg' | relative_url }}" alt="The members of the CLAUSE group in July 2025">
       <figcaption class="slideshow__caption">
         <strong>The group in July 2025</strong>
         Back row: Manar Ali, Larissa Koch, Clara Lachenmaier, Judith Sieker, Simeon Junker, Sanne Hoeken, Emilie Sitter, Omar Momen<br>
@@ -26,7 +26,7 @@ Generally, we work on natural language processing and on learning models for lan
       </figcaption>
     </figure>
     <figure class="slideshow__slide">
-      <img src="/assets/clause_group_2022.jpg" alt="The CLAUSE group on the Bielefeld University campus in March 2022" loading="lazy">
+      <img src="{{ '/assets/clause_group_2022.jpg' | relative_url }}" alt="The CLAUSE group on the Bielefeld University campus in March 2022" loading="lazy">
       <figcaption class="slideshow__caption">
         <strong>The group in March 2022</strong>
         On campus in front of building D, Bielefeld University.
@@ -84,4 +84,4 @@ Generally, we work on natural language processing and on learning models for lan
 
 </div>
 
-<script src="/assets/js/slideshow.js" defer></script>
+<script src="{{ '/assets/js/slideshow.js' | relative_url }}" defer></script>

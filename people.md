@@ -8,7 +8,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/profilesina.jpg">
+<img style="float: right; width: 227px;" src="{{ '/assets/profilesina.jpg' | relative_url }}">
   Sina Zarrieß  
   Head of the group  
 
@@ -21,7 +21,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/simeon.jpg">
+<img style="float: right; width: 227px;" src="{{ '/assets/simeon.jpg' | relative_url }}">
 
   Simeon Junker (_né_ Simeon Schüz)<br>
   Researcher  
@@ -56,7 +56,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/clara.jpg">
+<img style="float: right; width: 227px;" src="{{ '/assets/clara.jpg' | relative_url }}">
   Clara Lachenmaier  
   Researcher  
 
@@ -71,7 +71,7 @@ ______
 
 <br/><br/>
 
-<img style="float: right; width: 227px;" src="/assets/judith.jpg">
+<img style="float: right; width: 227px;" src="{{ '/assets/judith.jpg' | relative_url }}">
 <br/>
   Judith Sieker  
   Researcher  
@@ -86,7 +86,7 @@ ______
 ______  
 
 <br/><br/>
-<img style="float: right; width: 227px;" src="/assets/bastian.png">
+<img style="float: right; width: 227px;" src="{{ '/assets/bastian.png' | relative_url }}">
 <br>
   Bastian Bunzeck  
   Researcher  
@@ -103,7 +103,7 @@ ______
 ______  
 
 <br/><br/>
-<img style="float: right; width: 227px;" src="/assets/omar.jpg">
+<img style="float: right; width: 227px;" src="{{ '/assets/omar.jpg' | relative_url }}">
 <br/>
 
   Omar Momen <br/>
